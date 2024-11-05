@@ -5,7 +5,7 @@
 ### `npm start`
 ### `npm test`
 
-Project Overview
+
 This project is a sample To-Do list application built with React. It allows users to:
 
 Add new tasks using a form
